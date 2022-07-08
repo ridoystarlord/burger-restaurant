@@ -1,0 +1,7 @@
+.bg-special{
+    min-height: 100vh;
+    background-color: #F64B3C;
+    color: white;
+    display: flex;
+    align-items: center;
+}

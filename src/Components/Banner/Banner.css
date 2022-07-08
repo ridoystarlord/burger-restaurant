@@ -1,0 +1,5 @@
+.hero-banner{
+    min-height: 100vh;
+    background-image: url("../../images/black-banner.png");
+    background-position: center;
+}
